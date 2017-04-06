@@ -6,9 +6,11 @@ The goal - make a Mario clone using sdl library. It's far from perfect clone - o
 https://github.com/szycikm/marian/releases/latest
 
 # Controls
-left/right - left/right dx
-up - jump
-n - reset everything
-s - save game in savegame.dat
-l - load from savegame.dat
-g - god is god
+<ul>
+	<li>left/right - left/right dx</li>
+	<li>up - jump</li>
+	<li>n - reset everything</li>
+	<li>s - save game in savegame.dat</li>
+	<li>l - load from savegame.dat</li>
+	<li>g - god is god</li>
+</ul>
